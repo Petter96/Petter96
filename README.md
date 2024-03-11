@@ -1,16 +1,16 @@
-### Hi, I'm Peter
+<h1 align="center">Hi 👋, I'm Peter</h1>
+<h3 align="center">A Front-end web development</h3>
+
+A guy who is 20 and i study Computer Systems
+- 🌱 I’m currently learning **React** and **Javascript**
 
 ```js
-const Petter = {
+const Peter = {
   pronouns: "he" | "him",
   code: [Java, C++, C#, HTML, CSS],
   tools: [VsCode, Postgress, Eclipse],
 }
 ```
-
-- 🌱 I’m currently learning **React** and **Javascript**
-
-[![Petter96's github stats](https://github-readme-stats.vercel.app/api?username=Petter96)](https://github.com/Petter96/github-readme-stats)
 
 <!--
 **Petter96/Petter96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
