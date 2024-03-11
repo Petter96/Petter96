@@ -3,10 +3,12 @@
 ```js
 const Petter = {
   pronouns: "he" | "him",
-  code: [Java, C++, C#, Javascript, HTML, CSS],
-  tools: [React, Node, Postgress],
+  code: [Java, C++, C#, HTML, CSS],
+  tools: [VsCode, Postgress, Eclipse],
 }
 ```
+
+- 🌱 I’m currently learning **React** and **Javascript**
 
 [![Petter96's github stats](https://github-readme-stats.vercel.app/api?username=Petter96)](https://github.com/Petter96/github-readme-stats)
 
