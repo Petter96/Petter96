@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Peter
+
+```js
+const Petter = {
+  pronouns: "he" | "him",
+  code: [Java, C++, C#, Javascript, HTML, CSS],
+  tools: [React, Node, Postgress],
+}
+```
+
+[![Petter96's github stats](https://github-readme-stats.vercel.app/api?username=Petter96)](https://github.com/Petter96/github-readme-stats)
 
 <!--
 **Petter96/Petter96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
