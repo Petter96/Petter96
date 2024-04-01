@@ -2,7 +2,7 @@
 <h3 align="center">A Front-end web development</h3>
 
 A guy who is 20 and i study Computer Systems
-- 🌱 I’m currently learning **React** and **Javascript**
+- 🌱 I’m currently learning **React**, **Javascript** and **Flutter**
 
 ```js
 const Peter = {
