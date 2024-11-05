@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
 <h3 align="center">A Front-end web development</h3>
 
-A guy who is 20 and i study Computer Systems
+A guy who is 21 and i study Computer Systems
 - 🌱 I’m currently learning **React**, **Javascript** and **Flutter**
 
 ```js
